@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Wersja A
+=======
+Wersja B
+>>>>>>> konflikt-B
